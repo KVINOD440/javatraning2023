@@ -1,0 +1,7 @@
+class Student1{
+public void student()
+{
+int id;
+String name;
+}
+}
